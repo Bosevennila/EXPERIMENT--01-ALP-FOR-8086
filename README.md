@@ -1,7 +1,9 @@
 # EXPERIMENT--01-ALP-FOR-8086
 Name : CHANDRAPRIYADHARSHINI C
+
 Roll no : 212223240019
-Date of experiment :
+
+Date of experiment : 22.08.2024
 
 ## Aim : 
 To Write and execute ALP on fundamental arithmetic and logical operations
