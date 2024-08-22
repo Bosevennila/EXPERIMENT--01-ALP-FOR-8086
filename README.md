@@ -122,14 +122,5 @@ HLT
 
 ![Exp 1 div](https://github.com/user-attachments/assets/4ff8460b-8235-459e-8f46-739d7b032eec)
 
-
-## Result :
- 
-
-
-
-
-
-
-
-
+## Result : 
+Thus a program on ALP for the fundamental arithmetic and logical operations is done successful.
